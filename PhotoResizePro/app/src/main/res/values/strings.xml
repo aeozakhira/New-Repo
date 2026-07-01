@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Photo Resize Pro</string>
+
+    <string name="header_preview">Preview</string>
+    <string name="label_original">Original</string>
+    <string name="label_processed">Processed</string>
+    <string name="no_image_selected">No image selected</string>
+
+    <string name="header_resolution">Resolution</string>
+    <string name="hint_width">Width (px)</string>
+    <string name="hint_height">Height (px)</string>
+    <string name="preset_default">600×800</string>
+    <string name="preset_small">300×400</string>
+    <string name="preset_large">1200×1600</string>
+    <string name="preset_custom">Custom</string>
+    <string name="label_maintain_aspect">Maintain aspect ratio</string>
+
+    <string name="header_background">Background</string>
+    <string name="label_white_background">Make Background White</string>
+
+    <string name="header_compression">Compression</string>
+    <string name="label_quality">JPEG Quality</string>
+    <string name="label_auto_compress">Auto compress to maximum 25 KB</string>
+
+    <string name="header_output_format">Output Format</string>
+    <string name="format_jpeg">JPEG</string>
+    <string name="format_png">PNG</string>
+
+    <string name="btn_select_image">📷 Select Image</string>
+    <string name="btn_capture_photo">📸 Capture Photo</string>
+    <string name="btn_resize_image">🔄 Resize Image</string>
+    <string name="btn_save">💾 Save</string>
+    <string name="btn_share">📤 Share</string>
+    <string name="btn_clear">🗑 Clear</string>
+
+    <string name="info_original_default">Original: —</string>
+    <string name="info_output_default">Output: —</string>
+
+    <string name="msg_select_image_first">Please select or capture an image first</string>
+    <string name="msg_processing">Processing image…</string>
+    <string name="msg_resize_success">Image resized successfully</string>
+    <string name="msg_resize_failed">Failed to resize image</string>
+    <string name="msg_saved">Saved to Pictures/PhotoResizePro</string>
+    <string name="msg_save_failed">Failed to save image</string>
+    <string name="msg_no_processed_image">Resize an image first</string>
+    <string name="msg_cleared">Cleared</string>
+    <string name="msg_permission_denied">Permission denied</string>
+    <string name="msg_invalid_dimensions">Enter valid width and height</string>
+</resources>
